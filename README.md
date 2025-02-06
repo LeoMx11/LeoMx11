@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate data science student from UC Santa Barbara</h3>
 
-- 🔭 I’m currently working on [Company Valuation Project](pass)
+- 🔭 I’m currently working on [Company Valuation Project]((https://github.com/LeoMx11/Company-Valuation))
 
 - 🌱 I’m currently learning **Object identification and classification with Roboflow**
 
