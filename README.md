@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Company Valuation Project](https://github.com/LeoMx11/Company-Valuation)
 
-- 🌱 I’m currently learning **Object identification and classification with Roboflow**
+- 🌱 I’m currently learning **Object identification and classification**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeoMx11](https://github.com/LeoMx11)
 
