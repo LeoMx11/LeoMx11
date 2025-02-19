@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate data science student from UC Santa Barbara</h3>
 
-- 🔭 I’m currently working on [Company Valuation Project](https://github.com/LeoMx11/Company-Valuation)
+- 🔭 I’m currently working on [Cell Death Prediction Project](https://github.com/LeoMx11/Cell-Death-Prediction)
 
 - 🌱 I’m currently learning **Object identification and classification**
 
